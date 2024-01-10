@@ -61,6 +61,7 @@ const steven = [
 ![C#](https://img.shields.io/badge/-csharp-000000?style=flat-square&logo=csharp)
 <br/>
 ![Microsoft Sql Server](https://img.shields.io/badge/-Sql%20Server-CC2927?style=flat-square&logo=microsoft-sql-server&logoColor=ffffff)
+![Oracle](https://img.shields.io/badge/-Oracle-CC2927?style=flat-square&logo=oracle&logoColor=ffffff)
 ![PostgreSQL](https://img.shields.io/badge/-PostgreSQL-336791?style=flat-square&logo=postgresql)
 ![MySQL](https://img.shields.io/badge/-MySQL-black?style=flat-square&logo=mysql)
 <br/>
