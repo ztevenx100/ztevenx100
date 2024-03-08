@@ -7,7 +7,7 @@
 > Software engineer
 
 You can find me!
-- [LinkedIn](www.linkedin.com/in/pedro-steven-castiblanco-piracoca-a54a1a164)
+- [LinkedIn](https://www.linkedin.com/in/pscastiblancop)
 - [Website](https://ztevenx100.github.io/Angula_HV-PedroCastiblanco/home)
 
 [![HitCount](http://hits.dwyl.com/ABSphreak/ABSphreak.svg)](http://hits.dwyl.com/ABSphreak/ABSphreak)
