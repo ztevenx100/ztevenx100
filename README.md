@@ -44,6 +44,7 @@ const steven = [
 ![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=ztevenx100&langs_count=8)
 
 [![Curriculum Vitae](https://github-readme-stats.vercel.app/api/pin/?username=ztevenx100&repo=Angula_HV-PedroCastiblanco)](https://github.com/ztevenx100/Angula_HV-PedroCastiblanco)
+[![collection of javascript projects](https://github-readme-stats.vercel.app/api/pin/?username=ztevenx100&repo=js_projects-collection)](https://github.com/ztevenx100/js_projects-collection)
 
 </div>
 
