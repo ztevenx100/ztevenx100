@@ -10,8 +10,6 @@ You can find me!
 - [LinkedIn](https://www.linkedin.com/in/pscastiblancop)
 - [Website](https://ztevenx100.github.io/Angula_HV-PedroCastiblanco/home)
 
-[![HitCount](http://hits.dwyl.com/ABSphreak/ABSphreak.svg)](http://hits.dwyl.com/ABSphreak/ABSphreak)
-
 ---
 
 ```typescript
